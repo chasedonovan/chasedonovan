@@ -89,7 +89,7 @@ canvas{
   position: fill;
   background-size: fill;
 
-  font-size: 42px;
+  font-size: 48px;
   font-family: 'B612', monospace;
   font-weight: 700;
   width: 100%;
@@ -105,9 +105,8 @@ canvas{
 
 #typewriter {
   position: absolute;
-  font-size: 0px;
   font-family: 'B612', sans-serif;
   font-weight: 700;
   width: 800px;
-  margin: 350px 250px;
+  margin: 250px 250px;
 }

@@ -1,13 +1,15 @@
 
-var app = document.getElementById('app');
+var app = document.getElementById('typewriter');
 
 // var typewriter = new Typewriter(app, {
 //   autoStart: true,
 //   loop: true,
 // });
 
-const instance = new Typewriter('#app', {
-  loop: true
+const instance = new Typewriter('#typewriter', {
+  loop: true,
+  delay: 100,
+  deleteSpeed: 10
 });
 
 instance
@@ -16,11 +18,13 @@ instance
 .typeString("Hello, World!")
 .pauseFor(250)
 .deleteChars(13)
-.typeString("I am Chase.")
+.typeString("I'm Chase!")
 .pauseFor(500)
 .deleteChars(1)
-.typeString(", an aspiring <strong>fullstack</strong> web developer")
+.typeString(", an aspiring fullstack web developer")
 .pauseFor(300)
-.typeString('<br /> Check out my pinned repositories!')
+.changeDeleteSpeed(10)
+.deleteChars(46)
+.typeString('Check out my pinned repos!')
 .pauseFor(5000)
 .start();
