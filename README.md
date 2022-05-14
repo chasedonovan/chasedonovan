@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, nodejs, firebase**
 
-- 📫 How to reach me **chasedonovan01@gmail.com**
+- 📫 Want to reach me? **chasedonovan01@gmail.com**
 
 - 📄 Know about my experiences by checking out my [resume](https://docs.google.com/document/d/1YdM1YAFdvqF9G072z9U-ZP63leQTG8oM24--wmxY_0U/edit?usp=sharing)
 
