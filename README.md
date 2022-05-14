@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chase</h1>
 <h3 align="center">A passionate fullstack web developer from Las Vegas</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chasedonovan" alt="chasedonovan" /></a> </p>
-
-- 🔭 I’m currently working on a couple projects using react, nodejs, and firebase 
-(https://github.com/BloomTech-Labs/scribble-stadium-be-a https://github.com/radix-mundi-mbuyu/mbuyu-archive-2)
+- 🔭 I’m currently working on [a couple projects using react, nodejs, and firebase (click to check one out)](https://github.com/BloomTech-Labs/scribble-stadium-be-a https://github.com/radix-mundi-mbuyu/mbuyu-archive-2)
 
 - 💬 Ask me about **react, nodejs, firebase**
 
@@ -12,7 +9,7 @@
 
 - 📄 Know about my experiences [resume](https://docs.google.com/document/d/1YdM1YAFdvqF9G072z9U-ZP63leQTG8oM24--wmxY_0U/edit?usp=sharing)
 
-- ⚡ Fun fact **I'm a big fan of web3 and potential applications of decentralized smart contract and nft technology.. esp cardano**
+- ⚡ Fun fact **I'm a big fan of web3 and potential applications of decentralized smart contract and nft technology :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chasedonovan&show_icons=true&locale=en&layout=compact" alt="chasedonovan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chasedonovan&show_icons=true&locale=en" alt="chasedonovan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chasedonovan&" alt="chasedonovan" /></p>
