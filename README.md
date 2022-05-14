@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chase</h1>
 <h3 align="center">A passionate fullstack web developer from Las Vegas</h3>
 
-- 🔭 I’m currently working on [a couple projects. Here's one using React and Nodejs](https://github.com/BloomTech-Labs/scribble-stadium-be-a https://github.com/radix-mundi-mbuyu/mbuyu-archive-2)
+- 🔭 I’m currently working on [scribble stadium using React and Nodejs](https://github.com/BloomTech-Labs/scribble-stadium-be-a https://github.com/radix-mundi-mbuyu/mbuyu-archive-2)
 
 - 💬 Ask me about **react, nodejs, firebase**
 
