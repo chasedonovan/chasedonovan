@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chase</h1>
 <h3 align="center">A passionate fullstack web developer from Las Vegas</h3>
 
-- 🔭 I’m currently working on a few apps using react, nodejs, and firebase. Check out one called [dropspot](https://dropspot.io)
+- 🔭 I’m currently working on a few apps using react, nodejs, and firebase. Check out one called [dropspot](https://tokeo.io)
 
 - 💬 Ask me about **react, nodejs, firebase**
 
