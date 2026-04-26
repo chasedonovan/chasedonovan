@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chase</h1>
 <h3 align="center">A passionate fullstack software engineer from Las Vegas</h3>
 
-- 🔭 I’m currently working on a few apps using react, nodejs, and firebase. Check out one called [tokeo](https://tokeo.io)
+- 🔭 I’m currently working on a few apps using react, nodejs, and firebase. Check out one called [tokeo]([https://tokeo.io](https://chromewebstore.google.com/detail/tokeo-wallet/gcfodaebdmongllonjmfmbmefocjmhol?pli=1))
 
 - 💬 Ask me about **react, nodejs, firebase**
 
