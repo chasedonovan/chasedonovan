@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences by checking out my [resume](https://docs.google.com/document/d/1YdM1YAFdvqF9G072z9U-ZP63leQTG8oM24--wmxY_0U/edit?usp=sharing)
 
-- ⚡ Fun fact **I'm a big fan of web3 and the applications of smart contract / nft technology.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chase-donovan-264670210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chasedonovan" height="30" width="40" /></a>
